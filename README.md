@@ -1,6 +1,6 @@
 # Blazor Save Scroll Position
 
-Saves the Y-Scroll position which can easily restored or deleted.
+## Saves the Y-Scroll position which can easily restored or deleted.
 
 Register the Service:
 

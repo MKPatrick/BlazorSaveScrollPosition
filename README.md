@@ -21,6 +21,6 @@ Parameterless(stores one global value):
 
 With Paramter(stores value with a key - KEY VALUE BASED):
 
+    await scrollManager.SaveScrollPosition("KEY");
+    await scrollManager.DeleteScrollPosition("KEY");
     await scrollManager.RestoreScrollPosition("KEY");
-    await scrollManager.DeleteScrollPosition("KEY");
-    await scrollManager.DeleteScrollPosition("KEY");
